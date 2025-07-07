@@ -16,7 +16,7 @@
 ### 🛠️ Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,dotnet,github,git,vscode,visualstudio,figma,java,windows,azure" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,github,git,vscode,visualstudio,figma,java,windows,azure" />
 </p>
 
 ---
