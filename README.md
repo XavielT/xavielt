@@ -57,7 +57,7 @@
 
 <p align="left">
   <a href="mailto:xavieljoseterrerocuevas9@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:12px" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:15" />
 </a>
 <a href="https://www.linkedin.com/in/xaviel-terrero-a6602821a">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
