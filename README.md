@@ -56,8 +56,12 @@
 ### 🌐 Conéctate conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/xaviel-terrero-a6602821a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:xavieljoseterrerocuevas9@gmail.com"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/gmail.png" height="30" /></a>
+  <a href="mailto:xavieljoseterrerocuevas9@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/xaviel-terrero-a6602821a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
