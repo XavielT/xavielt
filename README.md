@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/xavielt/xavielt/blob/main/banner.png" alt="Banner Xaviel Terrero" height="100" width="400" />
+  <img src="https://github.com/xavielt/xavielt/blob/main/banner.png" alt="Banner Xaviel Terrero" height="60" width="400" />
 </p>
 
 <h1 align="center">Hola 👋, soy Xaviel Terrero</h1>
