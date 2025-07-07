@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/xavielt/xavielt/blob/main/banner.png" alt="Banner Xaviel Terrero" />
+</p>
+
 <h1 align="center">Hola 👋, soy Xaviel Terrero</h1>
 <h3 align="center">Apasionado por el desarrollo web y la programación</h3>
 
