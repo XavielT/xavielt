@@ -37,7 +37,7 @@
 
 <h3>Estadisticas generales de mis repositorios</h3>
 
-<p align="center">
+<p align="center" gap="10">
   <img src="https://github-readme-stats.vercel.app/api?username=xavielt&show_icons=true&theme=radical" alt="xavielt stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavielt&layout=compact&theme=radical" alt="Top Langs" />
 </p>
