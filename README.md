@@ -37,10 +37,10 @@
 
 <h3>Estadisticas generales de mis repositorios</h3>
 
-<p align="center" gap="30">
+<div align="center" style="display: flex; gap: 30px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=xavielt&show_icons=true&theme=radical" alt="xavielt stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavielt&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+</div>
 
 ---
 
