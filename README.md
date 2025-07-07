@@ -40,9 +40,22 @@
 
 ---
 
+### 🚀 Proyectos destacados
+
+- [X AutoHub](https://github.com/xavielt/x-autohub) – Plataforma web para gestión y visualización de autos.
+- [Iris NeuralNet](https://github.com/xavielt/iris-net) – Red neuronal simple creada en C# usando el dataset Iris.
+- [Tribute Page](https://github.com/xavielt/tribute-page) – Proyecto de práctica con HTML y CSS realizado en FreeCodeCamp.
+
+
+---
+
 ### 🌐 Conéctate conmigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/xaviel-terrero-a6602821a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:xavieljoseterrerocuevas9@gmail.com"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/gmail.png" height="30" /></a>
 </p>
+
+---
+
+> “El único límite para tu éxito es la voluntad de seguir aprendiendo.” – *Xaviel Terrero*
