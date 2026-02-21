@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/CSS-Avanzado-blue)
 ![](https://img.shields.io/badge/JavaScript-Aprendiendo-yellow)
 ![](https://img.shields.io/badge/C%23-Intermedio-purple)
-![](https://img.shields.io/badge/.NET-Intermedio-blueviolet)
+![](https://img.shields.io/badge/.NET-Aprendiendo-blueviolet)
 ![](https://img.shields.io/badge/SQL-Intermedio-success)
 ![](https://img.shields.io/badge/Angular-Aprendiendo-red)
 
