@@ -48,9 +48,9 @@
 
 ### 🚀 Proyectos destacados
 
+- [Xaviel Web v2](https://github.com/XavielT/xaviel-web-v2) – Portfolio Web (Angular).
 - [X AutoHub](https://github.com/xavielt/x-autohub) – Plataforma web para gestión y visualización de autos.
 - [Iris NeuralNet](https://github.com/xavielt/iris-net) – Red neuronal simple creada en C# usando el dataset Iris.
-- [Tribute Page](https://github.com/xavielt/tribute-page) – Proyecto de práctica con HTML y CSS realizado en FreeCodeCamp.
 
 
 ---
